@@ -1,0 +1,8 @@
+ID_phoneRate,phoneRateType,phoneRate_CostPerSecond,,
+1,Notte,1,,
+2,Giorno,1,,
+3,Mattino,1,,
+4,24 ore su 24,2,,
+5,CartaNatale,2,,
+6,Festivi,3,,
+7,Business,0.5,,
